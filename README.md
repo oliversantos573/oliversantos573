@@ -103,7 +103,7 @@ Main technologies:
 
 ## 📫 Contact
 
-📧 **Email:** zabsoluto234@gmail.com
+📧 **Email:** oliversantosdevjava@gmail
 
 💼 **LinkedIn:** *Add your LinkedIn profile here*
 
